@@ -1,0 +1,129 @@
+.bodybg{
+    background-image: url(https://www.wallpaperbetter.com/wallpaper/149/441/168/space-planet-purple-2K-wallpaper.jpg);
+    background-size: cover;
+}
+.logo{
+    border-radius: 800px;
+    width: 300px;
+    height: 100px;
+}
+.first{
+    background-color: #202020;
+    text-decoration: none;
+    color: rgb(186, 122, 19);
+    padding-left: 30px;
+}
+.cursor{
+    -webkit-transition: color;
+    transition: color;
+}
+.cursor:hover{
+    color:red
+}
+.allpage{
+    cursor: crosshair;
+    font-family: fantasy;
+}
+.card1{
+background-image: url(https://cdn1.epicgames.com/offer/b4565296c22549e4830c13bc7506642d/EN_FC6_DELUXE_EPIC_Edition_Capsule%20_%20Hero%20Carrousel_1920x108_3840x2160-37be9abcc7387e998a18202cb28595bb);
+text-decoration: none;
+border-radius: 10px;
+font-family:Arial, Helvetica, sans-serif;
+background-size: cover;
+border:5px solid #202020;
+border-radius: 10px;
+font-size: 20px;
+
+}
+.card2{
+background-image: url(https://pbs.twimg.com/media/FQpIAJHWQAMKVtM?format=jpg&name=4096x4096);
+text-decoration: none;
+border-radius: 10px;
+font-family:Arial, Helvetica, sans-serif;
+border:5px solid #202020;
+border-radius: 10px;
+background-size: cover;
+font-size: 20px;
+}
+.card3{
+    background-image: url(https://www.sporx.com/img/61/2022/ekran_goruntusu_2022_03_21_160242.jpg);
+    text-decoration: none;
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:5px solid #202020;
+    border-radius: 10px;
+    background-size: cover;
+    }
+.card4{
+    background-image: url(https://i2.milimaj.com/i/milliyet/75/0x0/5f04707c55427e08b856ad04.jpg);
+    text-decoration: none;
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:5px solid #202020;
+    border-radius: 10px;
+    background-size: cover;
+}
+.card5{
+    background-image: url(https://www.sporx.com/img/61/2022/ekran_goruntusu_2022_04_01_152929.jpg);
+    text-decoration: none;
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:5px solid #202020;
+    border-radius: 10px;
+    background-size: cover;
+}
+.card6{
+    background-image: url(https://www.sporx.com/img/61/2022/ekran_goruntusu_2022_04_01_151436.jpg);
+    text-decoration: none;
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:5px solid #202020;
+    border-radius: 10px;
+    background-size: cover;
+}
+.card7{
+    background-image: url(https://www.sporx.com/img/61/2022/ekran_goruntusu_2022_04_03_165657-968597.jpg);
+    text-decoration: none;
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:5px solid #202020;
+    border-radius: 10px;
+    background-size: cover;
+}
+.card8{
+    background-image: url(https://www.sporx.com/img/61/2022/ekran_goruntusu_2022_04_01_153231.jpg);
+    text-decoration: none;
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:5px solid #202020;
+    border-radius: 10px;
+    background-size: cover;
+}
+.footer{
+    margin-top: 50px;
+    background-color: #202020;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.bgwhite{
+    background-color: #ffffff;
+    background-size: cover;
+    color: #202020;
+}
+.newsfont{
+    font-family: fantasy;
+}
+.borderall{
+border-color: #202020;
+border:10px solid #202020
+}
+.borderpics{
+    border-color: #202020;
+    border:5px solid #202020
+}
+.links{
+    color:rgb(186, 122, 19);
+    text-decoration:none;
+    background-color: #202020;
+    border-radius: 2px;
+}
